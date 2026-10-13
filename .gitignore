@@ -1,0 +1,11 @@
+# Data: multi-GB pickles, download from the SharePoint link in README.md
+Data/
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
