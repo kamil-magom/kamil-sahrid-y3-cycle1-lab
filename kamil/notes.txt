@@ -1,1 +1,3 @@
 use samesign to train background
+justify 3100-50 better. currently these are just arbitrary values taken from literature
+derive uncertainties better
